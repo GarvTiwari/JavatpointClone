@@ -1,0 +1,22 @@
+
+.inner-design {
+    width :100%;
+    overflow-x:scroll ;
+}
+.keyword{
+    color: #069;
+    background-color: inherit;
+}
+.j-color{
+    color:#00f;
+}
+.test-it{
+    border: 2px solid balck;
+    margin: 4px 2px 4px 5px;
+    padding: 12px;
+}
+.deco{
+ text-decoration: none;
+ color: black;
+ background-color: rgb(17, 157, 17);
+}

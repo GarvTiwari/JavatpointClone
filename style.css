@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding: 0px;
+
+}
+
+.las-color{
+    margin-top: 3px;
+    font-family: erdana,helvetica,arial,sans-serif;
+    font-size: 21px;
+    color: #610b4b;
+
+}
+.filed-data{
+
+border-radius: 2px;
+}
+.lat-tutorial{
+    transition: all .25s ease-in-out; 
+    border: 1px solid #efe8e8;
+    margin: 5px;
+    font-size: 16px;
+    padding: 20px;
+    width: 120px;
+    height: 100px;
+    border-radius: 2px;
+    -webkit-box-shadow: rgba(99,99,99,.2) 0 2px 8px 0;
+    -moz-box-shadow: rgba(99,99,99,.2) 0 2px 8px 0;
+    box-shadow: rgba(99,99,99,.2) 0 2px 8px 0;
+  }
+.flex{
+    display: flex;
+    margin: 10px;
+    padding-left: 12px;
+}
+.styles{
+    text-decoration: none;
+  color: white;
+}
+
+.head ul li:hover{
+    /* background-color: rgb(89, 77, 77); */
+    display: block;
+    border: 1 px solid rgb(0 0 0/50%);
+
+    
+    background-color: rgb(0 0 0/50%);
+    cursor: pointer;
+    transition: all 0.25s ease-in-out;
+}
